@@ -1,4 +1,4 @@
-## mpvue - 信息查询的小程序（使用vant UI）
+# mpvue - 信息查询的小程序（使用vant UI）
 
 练手用的项目。
 
@@ -13,9 +13,8 @@
 
 截图如下：
 
-![](http://mardown-pic-1252666898.coscd.myqcloud.com/github/2018-12-mpvue-demo/index.gif)
-
-![](http://mardown-pic-1252666898.coscd.myqcloud.com/github/2018-12-mpvue-demo/frame.gif)
+新闻页![](http://mardown-pic-1252666898.coscd.myqcloud.com/github/2018-12-mpvue-demo/index.gif)
+框架排名![](http://mardown-pic-1252666898.coscd.myqcloud.com/github/2018-12-mpvue-demo/frame.gif)
 
 ## 如何安装、运行
 
