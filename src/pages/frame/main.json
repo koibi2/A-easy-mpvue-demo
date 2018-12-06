@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "前端框架TOP100",
+    "usingComponents": {
+        "van-cell": "../../static/vant/cell/index",
+        "van-cell-group": "../../static/vant/cell-group/index",
+        "van-icon": "../../static/vant/icon/index",
+        "van-popup": "../../static/vant/popup/index"
+    }
+}
